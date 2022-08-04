@@ -322,12 +322,6 @@ body {
     }
 }
 
-
-/* ------------------------------------------------------------------------------------------------------------------ */
-
-
-/*      HOME  PORTAL  */
-
 main {
     width: 100%;
     min-height: 80vh;
@@ -336,9 +330,6 @@ main {
     /* border: 2px solid red; */
     padding-bottom: 8%;
 }
-
-
-/* ------------------------------------------------------------------------------------------------------------------ */
 
 .sectionMargin {
     /* margin-top: 100px; */
@@ -505,11 +496,7 @@ footer div {
     padding-right: 60px;
 }
 
-.logo{
-    width: 10%;
-    height: 70px;
-    margin-top: 120px;
-}
+
 
 footer div p {
     text-transform: uppercase;
