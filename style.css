@@ -505,6 +505,11 @@ footer div {
     padding-right: 60px;
 }
 
+.logo{
+    width: 10%;
+    height: 70px;
+}
+
 footer div p {
     text-transform: uppercase;
     font-weight: 600;
